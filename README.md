@@ -1,2 +1,2 @@
-# matrix-matrix-connect
-连接器项目
+# matrix-connect
+烽火连接器
